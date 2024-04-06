@@ -5,7 +5,7 @@ This tool is to validate transaction, address and token balance from public ethe
 
 <b>Optional parameters</b> <br>
 <b>Transaction</b> <br>
-tx - transactionhash
+tx - caoky90
 <br>
 sample usage<br>
 https://etherscan.github.io/ethvalidate/?tx=0xa2882cca690d1898d7cc13ca9c978c04e83179eb07c0a6aa7f2fba355d50bd52
